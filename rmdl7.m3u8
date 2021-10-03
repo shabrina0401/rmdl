@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-http://cdn.raino.xyz/soccer/soccer6-version1/rainostream.m3u8
+https://d3fnculdhhba6a.cloudfront.net/out/v1/b397bbed1bc048b5a62a319bcf54407f/index_3.m3u8
