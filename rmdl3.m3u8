@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://etslive-2-vidio-com.akamaized.net/exp=1633618724~acl=/hls-p/ingest_6685_*/*~hmac=eb6df1e7b3b609c4856163cb778e5757e770b4dd728e950ac4cdb66d012b42a0/hls-p/ingest_6685_360p/index.m3u8
+https://bal.varcdn1.ru/lb/match/tracks-v1a1/mono.m3u8
