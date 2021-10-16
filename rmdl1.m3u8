@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net/exp=1634397585~acl=/hls-p/ingest_6786_*/*~hmac=44ecb175a78d61be126b12d7b1a334b91fe7cfaa3395e52fc814cbffdc917c54/hls-p/ingest_6786_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634405409~acl=/hls-p/ingest_6786_*/*~hmac=e50d16c64bf7d6436fcb9c20a88a90508aaede23cf385a3169a11da74f6c254c/hls-p/ingest_6786_720p/index.m3u8
