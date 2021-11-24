@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2321508,RESOLUTION=1920x1080
+http://88.barouhn.xyz.global.prod.fastly.net/live/33523510/index.m3u8
