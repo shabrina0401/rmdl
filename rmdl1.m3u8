@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:6
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_audio",NAME="und",LANGUAGE="en",DEFAULT=YES,AUTOSELECT=YES,URI="https://videodelivery.net/7d3458d093ad4b4c4e4e147e761a89d2/manifest/stream_t2_r999999999.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_audio",NAME="und",LANGUAGE="en",DEFAULT=YES,AUTOSELECT=YES,URI="https://videodelivery.net/0d88efab8b5054586f9a9dbd9d59df5b/manifest/stream_t2_r999999999.m3u8"
 #EXT-X-STREAM-INF:RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",BANDWIDTH=3079460,AVERAGE-BANDWIDTH=7840960,FRAME-RATE=30.000,AUDIO="group_audio"
-https://videodelivery.net/7d3458d093ad4b4c4e4e147e761a89d2/manifest/stream_t1_r2.m3u8
+https://videodelivery.net/0d88efab8b5054586f9a9dbd9d59df5b/manifest/stream_t1_r1.m3u8
