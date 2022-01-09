@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2500000,NAME=1080p,RESOLUTION=1920x1080
-https://d31phx864g9nr2.cloudfront.net/out/v1/cd18fdb2e8f147dab1c5b77906c18407/index_1.m3u8
+https://d10nbk66ckd93y.cloudfront.net/hls/sne/chunks.m3u8
