@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-DYNAMICALLY-GENERATED
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2750000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=25.000
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/O0LrsguQ_11Qhy1gqJCxs0tPyYla8ZzotR9Y-25ed_8LLf8aPtsXTzNACLx-6-1Tc18X955fthmK97Seexg18Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+https://etslive-2-vidio-com.akamaized.net/exp=1639417224~acl=/hls-p/ingest_6685_*/*~hmac=2b3e83cb8b46dc3da922a00e6b649e2ab56abc26fc9ba785aecea6d98c13acd6/hls-p/ingest_6685_480p/index.m3u8
