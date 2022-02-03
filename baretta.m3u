@@ -1,1 +1,15 @@
+#EXTM3U
+#EXTINF:-1, Sport TV HD
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/fG2NzzluECkzfaqsNx19x2eUk3eLdect-0F-4j55K2DPLQH2t2vHTzA7XmYkL2PhrSiQ8xo0ajBfQ9rJZ64r5Q/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, Sport TV SD
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/fG2NzzluECkzfaqsNx19x2eUk3eLdect-0F-4j55K2DPLQH2t2vHTzA7XmYkL2PhrSiQ8xo0ajBfQ9rJZ64r5Q/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1, English 1
+http://45.148.26.188/hls/M2.m3u8
+
+#EXTINF:-1, English 2
+https://c2332c5f5015.us-east-1.playback.live-video.net/api/video/v1/us-east-1.086387582906.channel.C70jWk3dSjBE.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy1lYXN0LTE6MDg2Mzg3NTgyOTA2OmNoYW5uZWwvQzcwaldrM2RTakJFIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93d3cuc3BvcnRuZXdzLnRvIiwiaWF0IjoxNjQzNzUzODAwLCJleHAiOjE2NDYzNDU4MDB9.sPkGanI8OryReY6iO_pq_4AYCP5pQaAkvEmFgkTGIfKuOCcvvG3G8Nl0u6gZujWnI8aRCAGapf4EhT_kpOdtxa37JBOHw2JXN7BLMpUIgAgJV4G4mbjeXoKOeomOmYh9
+
+#EXTINF:-1, Romania
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
